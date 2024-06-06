@@ -3,6 +3,11 @@
   font-size: larger;
 }
 
+.image_class {
+  width: 300px;
+  height: 200px;
+}
+
 .body_frame {
   margin: 5px;
   border: 1px solid gray;
