@@ -7,7 +7,7 @@ This repository contains projects for Udacity's [Introduction to Programming Nan
 ### Part 1: Learn to Code
 In this part the knowlegle of HTML is build up.
 
-- Project: [Getting Started with HTML]()
+- Project: [Getting Started with HTML](https://rawcdn.githack.com/Photon-einstein/Udacity_Introduction_to_Programming/63bca4c7dbea0bdc49bcc1f99865c41733aada7c/1-HTML/notes.html)
 
 ### Part 2: Make a Stylish Webpage
 For the project, you'll use HTML and CSS to make a stylish web page on any topic.   
