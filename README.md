@@ -1,0 +1,16 @@
+# Introduction-to-Programming-Nanodegree
+
+### Tiago Sousa
+
+This repository contains projects for Udacity's [Introduction to Programming Nanodegree](https://www.udacity.com/course/intro-to-programming-nanodegree--nd000).
+
+### Part 1: Learn to Code
+In this part the knowlegle of HTML is build up.
+
+- Project: [Getting Started with HTML]()
+
+### Part 2: Make a Stylish Webpage
+For the project, you'll use HTML and CSS to make a stylish web page on any topic.   
+You will apply your knowledge of HTML Document Structure to your html file and then create custom CSS styling based on your personal preferences.
+
+- Project: [Make a Web Page]()
