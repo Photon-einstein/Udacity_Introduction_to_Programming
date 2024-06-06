@@ -1,0 +1,11 @@
+Anotation of all the style from top to down:
+
+1) Title: letter in greater size and in bold
+2) Figure: on top of the text
+3) First paragraph: this text is in italic.
+4) The 4 caracteristics: are in bold.
+5) The list has no bullet points.
+6) Text border: there is a thin border line in gray,
+around the text.
+7) There is a shadow effect around the card.
+8) There is a thin border line in gray around the card.

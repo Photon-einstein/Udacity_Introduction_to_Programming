@@ -1,0 +1,42 @@
+/* add your CSS here */
+
+.header {
+  font-size: larger;
+}
+
+.body_frame {
+  margin: 5px;
+  border: 1px solid gray;
+  padding: 5px;
+  width: 320px;
+  height: 680px;
+  box-shadow: 5px 5px lightgrey;
+}
+
+.div_outer_frame {
+  align-items: center;
+  margin-left: 5pt;
+  margin-right: 5pt;
+}
+
+.div_frame {
+  margin-top: 5px;
+  border: 1px solid gray;
+  padding: 10px;
+  width: 280px;
+  height: 380px;
+  flex-wrap: wrap;
+}
+
+.animal_introduction {
+  font-style: italic;
+}
+
+.list_style {
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.caracteristic {
+  font-weight: bold;
+}
