@@ -14,3 +14,11 @@ In this project you'll use HTML and CSS to make a stylish web page of a animal c
 You will apply your knowledge of HTML Document Structure to your html file and then create a custom CSS styling.
 
 - Project: [Make a Animal Card](https://rawcdn.githack.com/Photon-einstein/Udacity_Introduction_to_Programming/62034c95562a2d4d20bd8ccaab284f61845e93c5/2-Animal_card_project/card.html)
+
+### Part 3: Make a game adventure
+
+In this project, you'll make a simpler version of an old-fashioned text-based adventure game using Python.
+
+- Project: [Adventure Game](https://github.com/Photon-einstein/Udacity_Introduction_to_Programming/tree/main/3-Adventure_Game_Python_I)
+  
+
