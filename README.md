@@ -21,9 +21,15 @@ In this project, you'll make a simpler version of an old-fashioned text-based ad
 
 - Project: [Adventure Game](https://github.com/Photon-einstein/Udacity_Introduction_to_Programming/tree/main/3-Adventure_Game_Python_I)
 
+### Part 4: Make a Rock, Paper, Scissors game
+
+In this project, you'll apply your Python and object-oriented programming skills to build a program that plays the game of Rock Paper Scissors. You'll build classes that represent the game and its players. You'll write computer players that follow various different strategies, as well as a human player class that lets a human play the game against the computer.
+
+- Project: [Shopping Cart](https://github.com/Photon-einstein/Udacity_Introduction_to_Programming/tree/main/4-Rock_Paper_Scissors_Python_II)
+
 ### Part 5: Build a shopping cart
 
 In this project, you will be creating the core functionality used for a storefront application. The visual of the storefront and the JavaScript necessary to connect the code you will write to that visual has already been created.
 
-- Project: [Adventure Game](https://github.com/Photon-einstein/Udacity_Introduction_to_Programming/tree/main/5-Building_shopping_cart_Javascript)
+- Project: [Shopping Cart](https://github.com/Photon-einstein/Udacity_Introduction_to_Programming/tree/main/5-Building_shopping_cart_Javascript)
 
