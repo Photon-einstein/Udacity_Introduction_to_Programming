@@ -25,7 +25,7 @@ In this project, you'll make a simpler version of an old-fashioned text-based ad
 
 In this project, you'll apply your Python and object-oriented programming skills to build a program that plays the game of Rock Paper Scissors. You'll build classes that represent the game and its players. You'll write computer players that follow various different strategies, as well as a human player class that lets a human play the game against the computer.
 
-- Project: [Shopping Cart](https://github.com/Photon-einstein/Udacity_Introduction_to_Programming/tree/main/4-Rock_Paper_Scissors_Python_II)
+- Project: [Rock, Paper Scissors game](https://github.com/Photon-einstein/Udacity_Introduction_to_Programming/tree/main/4-Rock_Paper_Scissors_Python_II)
 
 ### Part 5: Build a shopping cart
 
