@@ -1,6 +1,6 @@
 # Introduction-to-Programming-Nanodegree
 
-The goal of me taking this course was to gain more knowledge at Web development and Python.
+The goal of taking this course was to gain more knowledge at Web development and Python.
 
 This repository contains projects for Udacity's [Introduction to Programming Nanodegree](https://www.udacity.com/course/intro-to-programming-nanodegree--nd000).
 
