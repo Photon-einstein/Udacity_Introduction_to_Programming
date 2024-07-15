@@ -33,3 +33,8 @@ In this project, you will be creating the core functionality used for a storefro
 
 - Project: [Shopping Cart](https://github.com/Photon-einstein/Udacity_Introduction_to_Programming/tree/main/5-Building_shopping_cart_Javascript)
 
+## Certificate of completion
+
+[Certificate of graduation](https://www.udacity.com/certificate/e/2d4d60b6-0672-11ef-a425-e73bb92b8173?_gl=1*17bc0mc*_gcl_au*OTYzNDM4MC4xNzIxMDgwOTUy*_ga*NTk4MzQzMjkxLjE3MjEwODA5NTI.*_ga_CF22GKVCFK*MTcyMTA4MDk1MS4xLjAuMTcyMTA4MDk1Mi41OS4wLjA.)
+
+
