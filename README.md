@@ -20,5 +20,10 @@ You will apply your knowledge of HTML Document Structure to your html file and t
 In this project, you'll make a simpler version of an old-fashioned text-based adventure game using Python.
 
 - Project: [Adventure Game](https://github.com/Photon-einstein/Udacity_Introduction_to_Programming/tree/main/3-Adventure_Game_Python_I)
-  
+
+### Part 5: Build a shopping cart
+
+In this project, you will be creating the core functionality used for a storefront application. The visual of the storefront and the JavaScript necessary to connect the code you will write to that visual has already been created.
+
+- Project: [Adventure Game](https://github.com/Photon-einstein/Udacity_Introduction_to_Programming/tree/main/5-Building_shopping_cart_Javascript)
 
